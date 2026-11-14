@@ -1,11 +1,11 @@
 # YouTube digest: AI in architecture
-Generated 2026-11-14 08:39 UTC. Covers uploads since 2026-11-06.
+Generated 2026-11-14 08:42 UTC. Covers uploads since 2026-11-06.
 Numbers come from the YouTube Data API at generation time.
 
 ## New videos from followed channels
 
 ### Show It Better
-- **How I Actually Use Claude as an Architect with SketchUp** (Show It Better, 2026-11-10) - 36,111 views, 519 likes, 32 comments
+- **How I Actually Use Claude as an Architect with SketchUp** (Show It Better, 2026-11-10) - 36,123 views, 519 likes, 32 comments
   https://www.youtube.com/watch?v=a6bdszCxUIM
   Courses: Resources: My Current PC Setup: HP Z6 G5 A Workstation Desktop PC: AMD Procesador Ryzen™ Threadripper™ PRO 7985WX NVIDIA RTX 6000 Ada Generation: Monitor HP Z32K G3 Display: Keyboard Mx Keys:
 
@@ -16,7 +16,7 @@ Numbers come from the YouTube Data API at generation time.
 
 
 ### ArchiTech Network
-- **The Future of Housing: Robotic Microfactories & AI | Mollie Claypool | AUAR | ATN Summit** (ArchiTech Network, 2026-11-08) - 16,216 views, 129 likes, 11 comments
+- **The Future of Housing: Robotic Microfactories & AI | Mollie Claypool | AUAR | ATN Summit** (ArchiTech Network, 2026-11-08) - 16,219 views, 129 likes, 11 comments
   https://www.youtube.com/watch?v=bEdYM-wYPx0
   What if the housing crisis isn't a design problem, but a manufacturing problem? In this keynote from ATN Summit 2026, Mollie Claypool, CEO and Co-Founder of Automated Architecture (AUAR), explores why
 
@@ -28,7 +28,7 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=WP4w4yNeFbw
   Can we build houses faster, cheaper and more efficiently using AI and robotics? In this episode of the Archi-Tech Network Office Tour, we visit AUAR (Automated Architecture) at their new London headqu
 
-- **From Craftsman to Curator in the Era of AI | Pamela & Jesper Wallgren | Finch | ATN Summit** (ArchiTech Network, 2026-11-13) - 102 views, 2 likes, 0 comments
+- **From Craftsman to Curator in the Era of AI | Pamela & Jesper Wallgren | Finch | ATN Summit** (ArchiTech Network, 2026-11-13) - 106 views, 2 likes, 0 comments
   https://www.youtube.com/watch?v=QjG7Vix5QD0
   What if you could have a conversation with a building? In this keynote from ATN Summit 2026, Giuseppe Dotto, Design Technology Manager at OMA, explores the concept of "Buildings That Talk"—a future wh
 
@@ -38,7 +38,7 @@ Numbers come from the YouTube Data API at generation time.
 
 
 ### Melos Azemi
-- **I replaced all my Architecture tools with THIS alternative!** (Melos Azemi, 2026-11-12) - 7,899 views, 94 likes, 5 comments
+- **I replaced all my Architecture tools with THIS alternative!** (Melos Azemi, 2026-11-12) - 7,899 views, 95 likes, 5 comments
   https://www.youtube.com/watch?v=MCso8Uq-m-0
   Try Synaps for free: Stop manual drafting and use AI architecture tools to generate floor plans, sections, and 3D models in minutes. I spent years mastering AutoCAD, but recently I tested how AI draft
 
@@ -46,7 +46,7 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=pHNSIuEDPpY
   Try Synaps for free: AI for architecture in 2027 starts here. In this 5 minute crash course, you’ll see how Synaps, the AI canvas for architects, takes you from an empty site to a full building set: f
 
-- **Sketch to building** (Melos Azemi, 2026-11-09) - 2,930 views, 55 likes, 7 comments
+- **Sketch to building** (Melos Azemi, 2026-11-09) - 2,933 views, 55 likes, 7 comments
   https://www.youtube.com/watch?v=5aCuyjCPq7U
   Sketch to building. Every project starts with a rough sketch, but turning it into real drawings usually takes hours. With Synaps, that part is automated, so I can keep my focus on the idea. I upload m
 
@@ -70,15 +70,15 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=LQwL-jmKTEM
   From a quick sketch to a full building, drafted in minutes. With Synaps, I can skip the hours of repetitive drawing work and spend that time developing the design. I upload my hand sketch, and it gene
 
-- **4 AI Rendering Workflows to use as an Architect | MyArchitectAI** (Melos Azemi, 2026-11-12) - 821 views, 7 likes, 2 comments
+- **4 AI Rendering Workflows to use as an Architect | MyArchitectAI** (Melos Azemi, 2026-11-12) - 823 views, 7 likes, 2 comments
   https://www.youtube.com/watch?v=uAVqOQgQRkU
   Try MyArchitectAI for free (no credit card needed), from here:
 
-- **How to draft without AutoCAD | AI Drafting Crash Course** (Melos Azemi, 2026-11-13) - 697 views, 7 likes, 0 comments
+- **How to draft without AutoCAD | AI Drafting Crash Course** (Melos Azemi, 2026-11-13) - 692 views, 7 likes, 0 comments
   https://www.youtube.com/watch?v=AFHF4d8qnt8
   Try Synaps for free:
 
-- **Vibe Design with me| Episode 2 of Unknown Client Challenge with CGConnect** (Melos Azemi, 2026-11-13) - 616 views, 5 likes, 0 comments
+- **Vibe Design with me| Episode 2 of Unknown Client Challenge with CGConnect** (Melos Azemi, 2026-11-13) - 617 views, 5 likes, 0 comments
   https://www.youtube.com/watch?v=1_MRx9lH4wM
   The Unknown Client Challenge starts today on CGconnect, in partnership with Chaos. In this live kickoff I walk through how the challenge works: - how to generate your client brief - how to turn a sket
 
@@ -88,7 +88,7 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=wYus8WWol-Q
   Having trouble finding the Blender MCP add-on? Here's how I installed it using Blender's built-in Install from Disk option. Follow these steps to locate the add-on, enable MCP Blender, and verify that
 
-- **How to Connect Claude to Blender (MCP)** (Danny Loza, 2026-11-06) - 346 views, 1 likes, 0 comments
+- **How to Connect Claude to Blender (MCP)** (Danny Loza, 2026-11-06) - 345 views, 1 likes, 0 comments
   https://www.youtube.com/watch?v=8hLXQ1_itao
   Stuck installing Blender MCP? You can literally take a screenshot, show Claude where you're stuck, and let it guide you through the process. In this step, we get Claude connected directly to Blender s
 
@@ -100,13 +100,13 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=63XB3lYYOU8
   Video Part 1: Master this interior AI rendering workflow to transform raw 3D models into photorealistic, client-ready visualizations in minutes—no complex 3ds Max setups required. In this follow-up tu
 
-- **5 Small Details You Should Add to Every 3D Model** (Danny Loza, 2026-11-11) - 117 views, 1 likes, 0 comments
+- **5 Small Details You Should Add to Every 3D Model** (Danny Loza, 2026-11-11) - 116 views, 1 likes, 0 comments
   https://www.youtube.com/watch?v=b6Bgv_-4VgA
   Want to create more realistic architectural renders? It all starts with your 3D model! In this video, I share 5 small details you should add to your architectural models to achieve more realistic, hig
 
 
 ### Nuno Silva
-- **Back Home - Lumion and Kling Short Video #lumion #archviz #klingai** (Nuno Silva, 2026-11-11) - 1,198 views, 25 likes, 15 comments
+- **Back Home - Lumion and Kling Short Video #lumion #archviz #klingai** (Nuno Silva, 2026-11-11) - 1,205 views, 25 likes, 15 comments
   https://www.youtube.com/watch?v=dlj9ojvGOi4
   I turned a Lumion scene into a cinematic short film. Back Home is a 30-second story about returning to a familiar place. I built the shots in Lumion, rendered with raytracing and used Kling 4 to bring
 
@@ -118,29 +118,28 @@ Numbers come from the YouTube Data API at generation time.
 ## Discovery: most-viewed new videos per search
 
 ### Search: AI for architects
-- **The Architects of AI with Josh Johnson | Scam Goddess** (Scam Goddess, 2026-11-10) - 33,441 views, 690 likes, 57 comments
+- **The Architects of AI with Josh Johnson | Scam Goddess** (Scam Goddess, 2026-11-10) - 33,459 views, 690 likes, 57 comments
   https://www.youtube.com/watch?v=qzESZDoczjU
   🛎 If You're New Subscribe ► The Architects of AI with Josh Johnson | Scam Goddess Comedian Josh Johnson joins Laci Mosley for a peek behind the curtain of the "geniuses" behind the push for AI. How'd 
 
-- **AI Just Mixed Revit, ArchiCAD, and Blender Into One Free BIM Tool — The Cloning Madness Continues** (Blender 3D Architect, 2026-11-12) - 7,302 views, 104 likes, 16 comments
-  https://www.youtube.com/watch?v=xgcEJ1bVEyE
-  AI just built a BIM tool that mixes Revit, ArchiCAD, and Blender — and it's free and open-source. CreaBIM is a new AI-generated BIM tool that does something none of the other clones have tried: it com
+- **5 AI tools for architecture on GitHub this week #aiarchitecture #opensource** (LandSpace Architecture, 2026-11-09) - 10,427 views, 239 likes, 4 comments
+  https://www.youtube.com/watch?v=9vn-T9b-o6Q
 
 - **Are architects surrendering their thinking to AI? With Jacob Shadbolt** (My 50 cents, 2026-11-10) - 6,757 views, 9 likes, 0 comments
   https://www.youtube.com/watch?v=F9aM1AWSQ3o
   This episode is offered to you by IcePanel: This is a special episode of Dear Architects, recorded away from the studio at the GOTO conference in Copenhagen. I sit down with Jacob Shadbolt, CEO and co
 
-- **WHY COMPANIES SHOULD KEEP HUMANS IN THE LOOP WITH AI** (Intelligent Diva, 2026-11-10) - 3,027 views, 1 likes, 0 comments
-  https://www.youtube.com/watch?v=mUH07QsEb7o
-  Artificial intelligence is transforming how companies operate, develop software, automate processes, and make business decisions. But there's an important question organizations should be asking: Are 
-
-- **Chichu Art Museum: An Invisible Museum Beneath a Japanese Hill #TadaoAndo #Architecture #Shorts** (ArchiPick, 2026-11-07) - 3,410 views, 72 likes, 1 comments
+- **Chichu Art Museum: An Invisible Museum Beneath a Japanese Hill #TadaoAndo #Architecture #Shorts** (ArchiPick, 2026-11-07) - 3,406 views, 72 likes, 1 comments
   https://www.youtube.com/watch?v=8rlel6jHDsQ
   Chichu Art Museum is Tadao Ando’s largely underground museum on Naoshima Island in Japan’s Seto Inland Sea. Completed in 2004, its concrete galleries sit beneath the landscape, while geometric courtya
 
+- **Will AI Lower Architect and Designer Fees? How to Protect Your Margins** (Immaculate Platform, 2026-11-11) - 1,556 views, 0 likes, 1 comments
+  https://www.youtube.com/watch?v=ZlYBcK-ABVo
+  Will AI lower architect and interior designer fees? The real mechanism is mode collapse, and why a clear point of view helps firms hold their fees. ▶ Free Firm Audit (17 questions, about 5 minutes; yo
+
 
 ### Search: Claude for architects
-- **How to Use Claude in Archicad in under 11 minutes** (David Tomic, 2026-11-06) - 10,600 views, 129 likes, 6 comments
+- **How to Use Claude in Archicad in under 11 minutes** (David Tomic, 2026-11-06) - 10,596 views, 129 likes, 6 comments
   https://www.youtube.com/watch?v=ugCsrjo5oQg
   Landscape plans are the drawings I loathe most, so I had Claude build me a complete landscaping library inside Archicad. Two custom parametric objects, an updated pen set and planting schedules built 
 
@@ -162,11 +161,15 @@ Numbers come from the YouTube Data API at generation time.
 
 
 ### Search: Archicad AI
+- **AI Just Mixed Revit, ArchiCAD, and Blender Into One Free BIM Tool — The Cloning Madness Continues** (Blender 3D Architect, 2026-11-12) - 7,302 views, 104 likes, 16 comments
+  https://www.youtube.com/watch?v=xgcEJ1bVEyE
+  AI just built a BIM tool that mixes Revit, ArchiCAD, and Blender — and it's free and open-source. CreaBIM is a new AI-generated BIM tool that does something none of the other clones have tried: it com
+
 - **Claude in archicad** (David Tomic, 2026-11-07) - 1,768 views, 11 likes, 2 comments
   https://www.youtube.com/watch?v=F1Y8Gfk82-E
   Watch full video here:
 
-- **Connect Claude to Archicad for free (it modeled a whole city)** (Ayoub MEP, 2026-11-09) - 1,521 views, 12 likes, 1 comments
+- **Connect Claude to Archicad for free (it modeled a whole city)** (Ayoub MEP, 2026-11-09) - 1,514 views, 12 likes, 1 comments
   https://www.youtube.com/watch?v=lbf2oAayZaM
   The full step by step tutorial is on my channel, linked under this Short. Claude now works directly in your open Archicad model. In this one it modeled a whole city: about 61,000 elements on the real 
 
@@ -184,13 +187,10 @@ Numbers come from the YouTube Data API at generation time.
   https://www.youtube.com/watch?v=hJZzui-K4gI
   🔹 Introducing SPLENDIT, the AI design assistant for Revit and AutoCAD 2025–2027. Describe a task in plain language and get help with modeling, calculations, and design checks directly in your project.
 
-- **5 AI tools for architecture on GitHub this week #aiarchitecture #opensource** (LandSpace Architecture, 2026-11-09) - 10,427 views, 239 likes, 4 comments
-  https://www.youtube.com/watch?v=9vn-T9b-o6Q
-
 - **5 AI tools for architecture this week #aiarchitecture** (LandSpace Architecture, 2026-11-12) - 3,444 views, 109 likes, 2 comments
   https://www.youtube.com/watch?v=6Hkn2kag8XA
 
-- **Build Your First Revit Automation with Grasshopper in 5 Simple Steps** (Learn Grasshopper, 2026-11-11) - 820 views, 32 likes, 0 comments
+- **Build Your First Revit Automation with Grasshopper in 5 Simple Steps** (Learn Grasshopper, 2026-11-11) - 818 views, 32 likes, 0 comments
   https://www.youtube.com/watch?v=cTxv7FndGv4
   Want to learn how to build this automation and adapt it to your own projects? Join our full Grasshopper in Revit training: You’ll learn to: • Build reusable workflows for Revit modelling, parameters, 
 
