@@ -1,5 +1,5 @@
 # Reddit digest: AI in architecture
-Generated 2026-11-14 08:29 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
+Generated 2026-11-14 08:39 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
 
 ## AI-related posts (by upvotes)
 
