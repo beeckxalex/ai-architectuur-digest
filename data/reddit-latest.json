@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-14T08:42:16.662572+00:00",
+  "generated": "2026-11-14T08:44:22.061726+00:00",
   "posts": [
     {
       "subreddit": "Architects",
       "title": "Having grown up playing GTA and now being a residential architect, having one of my designs in the new game would be the ultimate life goal",
       "url": "https://www.reddit.com/r/Architects/comments/1xst3hj/having_grown_up_playing_gta_and_now_being_a/",
-      "upvotes": 158,
+      "upvotes": 157,
       "comments": 17,
       "created": "2026-11-10",
       "ai_related": false,
@@ -15,7 +15,7 @@
       "subreddit": "archviz",
       "title": "A Vessel On The Broads - William Guthrie Architect",
       "url": "https://www.reddit.com/r/archviz/comments/1xqsi4i/a_vessel_on_the_broads_william_guthrie_architect/",
-      "upvotes": 149,
+      "upvotes": 151,
       "comments": 13,
       "created": "2026-11-08",
       "ai_related": false,
@@ -25,11 +25,21 @@
       "subreddit": "archviz",
       "title": "STILL HERE",
       "url": "https://www.reddit.com/r/archviz/comments/1xs4iei/still_here/",
-      "upvotes": 140,
+      "upvotes": 142,
       "comments": 7,
       "created": "2026-11-09",
       "ai_related": false,
       "excerpt": "A residential exterior I made in Blender and rendered in Cycles. I used blue dusk across the street and a little warm light inside to draw the eye to the house. The second image shows the scene as a clay render."
+    },
+    {
+      "subreddit": "archviz",
+      "title": "Resort at Bali",
+      "url": "https://www.reddit.com/r/archviz/comments/1xu88o0/resort_at_bali/",
+      "upvotes": 131,
+      "comments": 27,
+      "created": "2026-11-12",
+      "ai_related": false,
+      "excerpt": "Our images for Resort at Bali."
     },
     {
       "subreddit": "Architects",
@@ -43,13 +53,13 @@
     },
     {
       "subreddit": "archviz",
-      "title": "Resort at Bali",
-      "url": "https://www.reddit.com/r/archviz/comments/1xu88o0/resort_at_bali/",
-      "upvotes": 129,
-      "comments": 27,
+      "title": "Quick interior project turnaround wrapped it up in a couple of days",
+      "url": "https://www.reddit.com/r/archviz/comments/1xu8xut/quick_interior_project_turnaround_wrapped_it_up/",
+      "upvotes": 74,
+      "comments": 3,
       "created": "2026-11-12",
       "ai_related": false,
-      "excerpt": "Our images for Resort at Bali."
+      "excerpt": "Hey everyone. Finished this contemporary interior visualization project recently. Would love to hear your feedback on the lighting, framing, and overall mood. Critique is always welcome. ​(Software: 3ds Max + Corona Renderer)"
     },
     {
       "subreddit": "Architects",
@@ -62,34 +72,34 @@
       "excerpt": ""
     },
     {
-      "subreddit": "archviz",
-      "title": "Quick interior project turnaround wrapped it up in a couple of days",
-      "url": "https://www.reddit.com/r/archviz/comments/1xu8xut/quick_interior_project_turnaround_wrapped_it_up/",
-      "upvotes": 71,
-      "comments": 3,
-      "created": "2026-11-12",
+      "subreddit": "Architects",
+      "title": "AIA Timeline: A Systematic Dismantling of the Architect’s Authority",
+      "url": "https://www.reddit.com/r/Architects/comments/1xtutw5/aia_timeline_a_systematic_dismantling_of_the/",
+      "upvotes": 68,
+      "comments": 60,
+      "created": "2026-11-11",
       "ai_related": false,
-      "excerpt": "Hey everyone. Finished this contemporary interior visualization project recently. Would love to hear your feedback on the lighting, framing, and overall mood. Critique is always welcome. ​(Software: 3ds Max + Corona Renderer)"
+      "excerpt": "*This is an updated timeline incorporating feedback from my previous post. If architects are going to reclaim influence over the built environment and return to the owner’s seat, we must understand the history leading to our current professional environment. This is specific to the U.S. history, but"
     },
     {
       "subreddit": "archviz",
       "title": "Local Magnific AI Enhancer: Open Source Testing",
       "url": "https://www.reddit.com/r/archviz/comments/1xuuama/local_magnific_ai_enhancer_open_source_testing/",
-      "upvotes": 71,
+      "upvotes": 66,
       "comments": 35,
       "created": "2026-11-13",
       "ai_related": true,
       "excerpt": "Hey all, I've set Claude on the tools for just over 10 days now creating a magnific ai replacement and I think it's come pretty close. Runs locally, relatively fast and uses an open source backend. Would anyone be keen to test this? :)"
     },
     {
-      "subreddit": "Architects",
-      "title": "AIA Timeline: A Systematic Dismantling of the Architect’s Authority",
-      "url": "https://www.reddit.com/r/Architects/comments/1xtutw5/aia_timeline_a_systematic_dismantling_of_the/",
-      "upvotes": 69,
-      "comments": 60,
-      "created": "2026-11-11",
+      "subreddit": "ArchiCAD",
+      "title": "Archicad interior design course alternative for GB architects courses?",
+      "url": "https://www.reddit.com/r/ArchiCAD/comments/1xtyr89/archicad_interior_design_course_alternative_for/",
+      "upvotes": 56,
+      "comments": 2,
+      "created": "2026-11-12",
       "ai_related": false,
-      "excerpt": "*This is an updated timeline incorporating feedback from my previous post. If architects are going to reclaim influence over the built environment and return to the owner’s seat, we must understand the history leading to our current professional environment. This is specific to the U.S. history, but"
+      "excerpt": "GB ARCHITECTS a Russian firm does these what appears to be really good courses on interior design in archicad but they are in Russian infact all the good ones seem to be....are their any English language alternatives of equal interior design quality that could be suggested to help create better qual"
     },
     {
       "subreddit": "archviz",
@@ -100,16 +110,6 @@
       "created": "2026-11-07",
       "ai_related": false,
       "excerpt": "3dsmax x corona 13"
-    },
-    {
-      "subreddit": "ArchiCAD",
-      "title": "Archicad interior design course alternative for GB architects courses?",
-      "url": "https://www.reddit.com/r/ArchiCAD/comments/1xtyr89/archicad_interior_design_course_alternative_for/",
-      "upvotes": 54,
-      "comments": 2,
-      "created": "2026-11-12",
-      "ai_related": false,
-      "excerpt": "GB ARCHITECTS a Russian firm does these what appears to be really good courses on interior design in archicad but they are in Russian infact all the good ones seem to be....are their any English language alternatives of equal interior design quality that could be suggested to help create better qual"
     },
     {
       "subreddit": "Architects",
@@ -125,7 +125,7 @@
       "subreddit": "archviz",
       "title": "Archviz Interior Living, Dining, Bedroom",
       "url": "https://www.reddit.com/r/archviz/comments/1xtboel/archviz_interior_living_dining_bedroom/",
-      "upvotes": 44,
+      "upvotes": 46,
       "comments": 7,
       "created": "2026-11-11",
       "ai_related": true,
@@ -165,7 +165,7 @@
       "subreddit": "Architects",
       "title": "Industry Future",
       "url": "https://www.reddit.com/r/Architects/comments/1xrdqwk/industry_future/",
-      "upvotes": 36,
+      "upvotes": 34,
       "comments": 30,
       "created": "2026-11-09",
       "ai_related": true,
@@ -182,24 +182,24 @@
       "excerpt": "Decided to post good news on this sub to offset, at least just a little, the “I hate architecture” “I don’t get paid enough” posts lol. But anyway, I received a provisional pass for my Programming &amp; Analysis exam today after 6 weeks of relentless studying. The exam was actually more difficult th"
     },
     {
-      "subreddit": "ArchiCAD",
-      "title": "I finally solved the 15-year-old Zone Stamp mirror / drift bug using Python &amp; Tapir",
-      "url": "https://www.reddit.com/r/ArchiCAD/comments/1xteubk/i_finally_solved_the_15yearold_zone_stamp_mirror/",
-      "upvotes": 32,
-      "comments": 25,
-      "created": "2026-11-11",
-      "ai_related": true,
-      "excerpt": "Archicad users, we have all suffered through this Nightmare! 🤦‍♂️📐 You are up against a tight deadline. You spend 45 minutes nudging zone stamps away from furniture, door swings, and dimensions so your drawings look immaculate. Then the client asks: \"Can we see this unit mirrored?\" You press Ctrl + "
-    },
-    {
       "subreddit": "Architects",
       "title": "One Year Into My First Architecture Firm, Managing 10-12 Projects, And Already Burnt Out. Is This Normal?",
       "url": "https://www.reddit.com/r/Architects/comments/1xv6e8p/one_year_into_my_first_architecture_firm_managing/",
-      "upvotes": 30,
+      "upvotes": 31,
       "comments": 29,
       "created": "2026-11-13",
       "ai_related": false,
       "excerpt": "I’ve been working at a small architecture firm for about a year now, and I’m starting to wonder whether what I’m experiencing is normal in this profession or if it’s time to start looking elsewhere. For context, the three principals are genuinely nice people. They don’t micromanage, which I apprecia"
+    },
+    {
+      "subreddit": "ArchiCAD",
+      "title": "I finally solved the 15-year-old Zone Stamp mirror / drift bug using Python &amp; Tapir",
+      "url": "https://www.reddit.com/r/ArchiCAD/comments/1xteubk/i_finally_solved_the_15yearold_zone_stamp_mirror/",
+      "upvotes": 30,
+      "comments": 25,
+      "created": "2026-11-11",
+      "ai_related": true,
+      "excerpt": "Archicad users, we have all suffered through this Nightmare! 🤦‍♂️📐 You are up against a tight deadline. You spend 45 minutes nudging zone stamps away from furniture, door swings, and dimensions so your drawings look immaculate. Then the client asks: \"Can we see this unit mirrored?\" You press Ctrl + "
     },
     {
       "subreddit": "Architects",
@@ -215,7 +215,7 @@
       "subreddit": "Architects",
       "title": "1 dead, at least 12 injured after Brooklyn building collapse; survivors pulled from rubble.  In addition, a portion of the building on the corner, 1323 Flatbush Ave., also appeared to be sheared away, completely exposing apartments inside. That building is still standing.",
       "url": "https://www.reddit.com/r/Architects/comments/1xtz33b/1_dead_at_least_12_injured_after_brooklyn/",
-      "upvotes": 28,
+      "upvotes": 27,
       "comments": 6,
       "created": "2026-11-12",
       "ai_related": false,
@@ -225,7 +225,7 @@
       "subreddit": "Architects",
       "title": "I want to walk through a space in 50 years with my grandkid and tell him, I designed this place",
       "url": "https://www.reddit.com/r/Architects/comments/1xq2hn5/i_want_to_walk_through_a_space_in_50_years_with/",
-      "upvotes": 23,
+      "upvotes": 25,
       "comments": 45,
       "created": "2026-11-07",
       "ai_related": false,
@@ -265,7 +265,7 @@
       "subreddit": "archviz",
       "title": "D5 Render + SketchUp",
       "url": "https://www.reddit.com/r/archviz/comments/1xvlvma/d5_render_sketchup/",
-      "upvotes": 21,
+      "upvotes": 20,
       "comments": 6,
       "created": "2026-11-13",
       "ai_related": true,
@@ -282,24 +282,34 @@
       "excerpt": "A winter city scene made in Blender and rendered in Cycles. I used cold blue light across the snow, with warm vehicle lamps and scattered lit windows in the distance."
     },
     {
-      "subreddit": "Architects",
-      "title": "Years of surviving the licensure process and apparently my limit is a few business days",
-      "url": "https://www.reddit.com/r/Architects/comments/1xugxjl/years_of_surviving_the_licensure_process_and/",
-      "upvotes": 19,
-      "comments": 21,
-      "created": "2026-11-12",
-      "ai_related": false,
-      "excerpt": "Passed my final ARE. Finished AXP. NCARB record transmitted. Passed the Oregon jurisprudence exam Monday. Now I’m waiting for OSBAE to finalize my application, and apparently this is where I lose my shit. Do I understand that processing takes time? Yes. Do I expect an entire state agency to drop eve"
-    },
-    {
       "subreddit": "archviz",
       "title": "One of my latest renderings for an agency",
       "url": "https://www.reddit.com/r/archviz/comments/1xqj4xv/one_of_my_latest_renderings_for_an_agency/",
-      "upvotes": 19,
+      "upvotes": 20,
       "comments": 0,
       "created": "2026-11-07",
       "ai_related": false,
       "excerpt": "Blender + Photoshop + IA to upscale in 4K"
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Is there any architects working remotely here in this sub?",
+      "url": "https://www.reddit.com/r/Architects/comments/1xusj22/is_there_any_architects_working_remotely_here_in/",
+      "upvotes": 19,
+      "comments": 41,
+      "created": "2026-11-12",
+      "ai_related": false,
+      "excerpt": "Asking specifically about architects working for US companies. Both living in the US and outside the US. How did you manage to get your job? What’s your salary? If you’re outside the US: is your salary lower than market rates?"
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Years of surviving the licensure process and apparently my limit is a few business days",
+      "url": "https://www.reddit.com/r/Architects/comments/1xugxjl/years_of_surviving_the_licensure_process_and/",
+      "upvotes": 18,
+      "comments": 21,
+      "created": "2026-11-12",
+      "ai_related": false,
+      "excerpt": "Passed my final ARE. Finished AXP. NCARB record transmitted. Passed the Oregon jurisprudence exam Monday. Now I’m waiting for OSBAE to finalize my application, and apparently this is where I lose my shit. Do I understand that processing takes time? Yes. Do I expect an entire state agency to drop eve"
     },
     {
       "subreddit": "archviz",
@@ -312,20 +322,10 @@
       "excerpt": "Hi, this is from a revit model, rendered in blender with vray, plants are from cosmos. started this as an experiment and now I want to use it in my portfolio for uni, so it needs to look a lot better than this the front one looks flat to me and the grass and paving look fake but I cant tell what to "
     },
     {
-      "subreddit": "Architects",
-      "title": "Is there any architects working remotely here in this sub?",
-      "url": "https://www.reddit.com/r/Architects/comments/1xusj22/is_there_any_architects_working_remotely_here_in/",
-      "upvotes": 17,
-      "comments": 41,
-      "created": "2026-11-12",
-      "ai_related": false,
-      "excerpt": "Asking specifically about architects working for US companies. Both living in the US and outside the US. How did you manage to get your job? What’s your salary? If you’re outside the US: is your salary lower than market rates?"
-    },
-    {
       "subreddit": "archviz",
       "title": "San Francisco aerial study, Aquatic Park (3ds Max + V-Ray)",
       "url": "https://www.reddit.com/r/archviz/comments/1xrmyrb/san_francisco_aerial_study_aquatic_park_3ds_max/",
-      "upvotes": 16,
+      "upvotes": 17,
       "comments": 0,
       "created": "2026-11-09",
       "ai_related": false,
@@ -335,7 +335,7 @@
       "subreddit": "archviz",
       "title": "Student Residence",
       "url": "https://www.reddit.com/r/archviz/comments/1xs1455/student_residence/",
-      "upvotes": 15,
+      "upvotes": 14,
       "comments": 2,
       "created": "2026-11-09",
       "ai_related": false,
@@ -362,16 +362,6 @@
       "excerpt": "I want to rant about something that’s been weighing on me. I’m a 32-year-old male assistant architect who has completely upended his life these past few months. Everything feels upside down. I lost the job I genuinely enjoyed — the one where I was working on site — and I also stepped away from my ma"
     },
     {
-      "subreddit": "Architects",
-      "title": "Australian architecture grad advice",
-      "url": "https://www.reddit.com/r/Architects/comments/1xt797v/australian_architecture_grad_advice/",
-      "upvotes": 12,
-      "comments": 6,
-      "created": "2026-11-11",
-      "ai_related": false,
-      "excerpt": "Don't worry this isn't a \"why did I choose architecture post\" I've just completed first sem of masters at UniMelb and am desperate for work in industry, I've got quite good grades but not top of the class with uni awards, experience as a freelancer but seemingly no real connections yet. I've been on"
-    },
-    {
       "subreddit": "archviz",
       "title": "Post production advices",
       "url": "https://www.reddit.com/r/archviz/comments/1xv3avd/post_production_advices/",
@@ -382,14 +372,34 @@
       "excerpt": "Can you give me an opinion on my renderings ? I'm afraid the scenes are too dark"
     },
     {
-      "subreddit": "Architects",
-      "title": "Building suddenly collapses in Illinois, sending people running for cover.  “Initial security camera video suggests that the building’s roof collapsed, causing the scaffolding and portions of the building to also come down,” police said.",
-      "url": "https://www.reddit.com/r/Architects/comments/1xvhh80/building_suddenly_collapses_in_illinois_sending/",
-      "upvotes": 11,
-      "comments": 0,
+      "subreddit": "Revit",
+      "title": "training resources",
+      "url": "https://www.reddit.com/r/Revit/comments/1xvbobs/training_resources/",
+      "upvotes": 12,
+      "comments": 10,
       "created": "2026-11-13",
       "ai_related": false,
-      "excerpt": ""
+      "excerpt": "I'm looking for some training resources for Revit for myself. 20 years ago, I went to a tech school to learn AutoCAD and have a degree in architectural drafting. I'm an architectural drafter by trade, 20+ years experience working in small firms on a wide mix of high end residential and some light co"
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Australian architecture grad advice",
+      "url": "https://www.reddit.com/r/Architects/comments/1xt797v/australian_architecture_grad_advice/",
+      "upvotes": 11,
+      "comments": 6,
+      "created": "2026-11-11",
+      "ai_related": false,
+      "excerpt": "Don't worry this isn't a \"why did I choose architecture post\" I've just completed first sem of masters at UniMelb and am desperate for work in industry, I've got quite good grades but not top of the class with uni awards, experience as a freelancer but seemingly no real connections yet. I've been on"
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Would you consider wearing a hat in the office unprofessional ? (US)",
+      "url": "https://www.reddit.com/r/Architects/comments/1xr2797/would_you_consider_wearing_a_hat_in_the_office/",
+      "upvotes": 11,
+      "comments": 70,
+      "created": "2026-11-08",
+      "ai_related": false,
+      "excerpt": "Or is this the norm now ?"
     },
     {
       "subreddit": "archviz",
@@ -403,13 +413,23 @@
     },
     {
       "subreddit": "Architects",
-      "title": "Would you consider wearing a hat in the office unprofessional ? (US)",
-      "url": "https://www.reddit.com/r/Architects/comments/1xr2797/would_you_consider_wearing_a_hat_in_the_office/",
-      "upvotes": 9,
-      "comments": 70,
-      "created": "2026-11-08",
+      "title": "Building suddenly collapses in Illinois, sending people running for cover.  “Initial security camera video suggests that the building’s roof collapsed, causing the scaffolding and portions of the building to also come down,” police said.",
+      "url": "https://www.reddit.com/r/Architects/comments/1xvhh80/building_suddenly_collapses_in_illinois_sending/",
+      "upvotes": 10,
+      "comments": 0,
+      "created": "2026-11-13",
       "ai_related": false,
-      "excerpt": "Or is this the norm now ?"
+      "excerpt": ""
+    },
+    {
+      "subreddit": "archviz",
+      "title": "Render for my design studio's Project",
+      "url": "https://www.reddit.com/r/archviz/comments/1xq4gfy/render_for_my_design_studios_project/",
+      "upvotes": 10,
+      "comments": 2,
+      "created": "2026-11-07",
+      "ai_related": true,
+      "excerpt": "Hello , I'm new to Archviz , that's my 3rd Revit/D5/Photoshop render ever. I would love the feedback , Thank you 😄"
     },
     {
       "subreddit": "Architects",
@@ -420,26 +440,6 @@
       "created": "2026-11-09",
       "ai_related": false,
       "excerpt": "I have had multiple jobs as an architect in the UK. And I mean a lot. I was wondering how many other people have moved around a lot and why? For me it was partly due to various recessions, coupled with not really being that interested in the job, sometimes you can spend far too much time doing borin"
-    },
-    {
-      "subreddit": "archviz",
-      "title": "Render for my design studio's Project",
-      "url": "https://www.reddit.com/r/archviz/comments/1xq4gfy/render_for_my_design_studios_project/",
-      "upvotes": 9,
-      "comments": 2,
-      "created": "2026-11-07",
-      "ai_related": true,
-      "excerpt": "Hello , I'm new to Archviz , that's my 3rd Revit/D5/Photoshop render ever. I would love the feedback , Thank you 😄"
-    },
-    {
-      "subreddit": "Revit",
-      "title": "training resources",
-      "url": "https://www.reddit.com/r/Revit/comments/1xvbobs/training_resources/",
-      "upvotes": 9,
-      "comments": 10,
-      "created": "2026-11-13",
-      "ai_related": false,
-      "excerpt": "I'm looking for some training resources for Revit for myself. 20 years ago, I went to a tech school to learn AutoCAD and have a degree in architectural drafting. I'm an architectural drafter by trade, 20+ years experience working in small firms on a wide mix of high end residential and some light co"
     },
     {
       "subreddit": "Architects",
@@ -462,14 +462,14 @@
       "excerpt": "im a 17F senior high school student and ive held this firm belief of studying my passion, despite some people telling otherwise- because, since its my passion, ill find something that makes my style, mine and thus having my own niche that will make me stand out. however, as i scroll through this red"
     },
     {
-      "subreddit": "archviz",
-      "title": "Post production work - Open to collabs",
-      "url": "https://www.reddit.com/r/archviz/comments/1xrtkcp/post_production_work_open_to_collabs/",
+      "subreddit": "Architects",
+      "title": "Any career change recommendations?",
+      "url": "https://www.reddit.com/r/Architects/comments/1xsnbpx/any_career_change_recommendations/",
       "upvotes": 8,
-      "comments": 2,
-      "created": "2026-11-09",
+      "comments": 7,
+      "created": "2026-11-10",
       "ai_related": false,
-      "excerpt": "Hey everyone, Sharing a post-production project where I was responsible for the Photoshop work. In this stage I worked on: • Color grading and mood refinement • Lighting balance and contrast adjustments • Atmospheric depth enhancement • Texture recovery and material refinement • Subtle detailing and"
+      "excerpt": "I live in Australia and I recently graduated my bachelors. I’m working at a small-scale firm and I’ve been working there since I was studying. I really like my coworkers and I don’t mind what I do day-to-day. But yeah I’m basically getting paid at awards rate (minimum rate as a student) and it’s qui"
     },
     {
       "subreddit": "Architects",
@@ -483,23 +483,23 @@
     },
     {
       "subreddit": "Architects",
-      "title": "Any career change recommendations?",
-      "url": "https://www.reddit.com/r/Architects/comments/1xsnbpx/any_career_change_recommendations/",
-      "upvotes": 7,
-      "comments": 7,
-      "created": "2026-11-10",
-      "ai_related": false,
-      "excerpt": "I live in Australia and I recently graduated my bachelors. I’m working at a small-scale firm and I’ve been working there since I was studying. I really like my coworkers and I don’t mind what I do day-to-day. But yeah I’m basically getting paid at awards rate (minimum rate as a student) and it’s qui"
-    },
-    {
-      "subreddit": "Architects",
       "title": "Angel Tree Gift for Senior",
       "url": "https://www.reddit.com/r/Architects/comments/1xusxa7/angel_tree_gift_for_senior/",
-      "upvotes": 6,
+      "upvotes": 7,
       "comments": 4,
       "created": "2026-11-13",
       "ai_related": false,
       "excerpt": "Hi all! I hope this is okay to post here, but please tell me if I should post this question somewhere else! TLDR; I am looking for a suggestion on what to gift a senior who used to be an architect. I have a $30 spending limit so I want to choose carefully. I ‘adopted’ a senior from an assisted livin"
+    },
+    {
+      "subreddit": "archviz",
+      "title": "Post production work - Open to collabs",
+      "url": "https://www.reddit.com/r/archviz/comments/1xrtkcp/post_production_work_open_to_collabs/",
+      "upvotes": 7,
+      "comments": 2,
+      "created": "2026-11-09",
+      "ai_related": false,
+      "excerpt": "Hey everyone, Sharing a post-production project where I was responsible for the Photoshop work. In this stage I worked on: • Color grading and mood refinement • Lighting balance and contrast adjustments • Atmospheric depth enhancement • Texture recovery and material refinement • Subtle detailing and"
     },
     {
       "subreddit": "Architects",
@@ -513,6 +513,26 @@
     },
     {
       "subreddit": "Architects",
+      "title": "How many uk architect just pay the ARB fee and not join the RIBA ?",
+      "url": "https://www.reddit.com/r/Architects/comments/1xsnaiq/how_many_uk_architect_just_pay_the_arb_fee_and/",
+      "upvotes": 6,
+      "comments": 33,
+      "created": "2026-11-10",
+      "ai_related": false,
+      "excerpt": "Am considering just paying the ARB fee but not the RIbA fee this year? Are there many people doing this ? I paid both last year feel the RIBA is a bit useless also considering the cost of living at the moment."
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Best laptop/ tech for a freelance architect",
+      "url": "https://www.reddit.com/r/Architects/comments/1xrps62/best_laptop_tech_for_a_freelance_architect/",
+      "upvotes": 6,
+      "comments": 11,
+      "created": "2026-11-09",
+      "ai_related": false,
+      "excerpt": "Hello All- I am London based Associate level architect and have left my current job for various reasons. A lot of the parents in our kids friendship group are currently about to embark on various levels of house renovations and have asked me to do some freelance work for them. What is the best (affo"
+    },
+    {
+      "subreddit": "Architects",
       "title": "Advice on cold emailing architecture firms",
       "url": "https://www.reddit.com/r/Architects/comments/1xr4hvd/advice_on_cold_emailing_architecture_firms/",
       "upvotes": 6,
@@ -520,36 +540,6 @@
       "created": "2026-11-08",
       "ai_related": false,
       "excerpt": "I'm a fourth-year B.Arch student seeking summer 2027 internships, ideally in Los Angeles. My portfolio is finished, and I've started applying to the larger firms (Corgan, SOM, STV, etc.). However, I feel like my application gets buried under hundreds of others, and I really need to secure an interns"
-    },
-    {
-      "subreddit": "Architects",
-      "title": "Is it worth pursuing a second baccalaureate in architecture?",
-      "url": "https://www.reddit.com/r/Architects/comments/1xrl1po/is_it_worth_pursuing_a_second_baccalaureate_in/",
-      "upvotes": 6,
-      "comments": 4,
-      "created": "2026-11-09",
-      "ai_related": false,
-      "excerpt": "I recently graduated from a non-board pre-med program and am currently taking a gap year to recover from a brutal final semester of academics, training, thesis, and org work. Because everyone expected me to go to med school, I took the NMAT. I was also diligently reviewing for my certification exam,"
-    },
-    {
-      "subreddit": "Architects",
-      "title": "中国普通装修工人去美国加拿大澳大利亚有机会生存下来吗",
-      "url": "https://www.reddit.com/r/Architects/comments/1xq8j9d/中国普通装修工人去美国加拿大澳大利亚有机会生存下来吗/",
-      "upvotes": 6,
-      "comments": 6,
-      "created": "2026-11-07",
-      "ai_related": false,
-      "excerpt": "我是在中国做装修施工的工人，主要会安装玻璃楼梯扶手，装饰不锈钢。通过简单学习也会安装门窗，淋浴房。会简单使用CAD。希望出国去些发达国家谋生，如美国加拿大澳大利亚。希望得到一些建议能够很大概率的去往这些国家并且找到工作。"
-    },
-    {
-      "subreddit": "archviz",
-      "title": "Highrise at Night Build-up",
-      "url": "https://www.reddit.com/r/archviz/comments/1xv3t04/highrise_at_night_buildup/",
-      "upvotes": 6,
-      "comments": 5,
-      "created": "2026-11-13",
-      "ai_related": false,
-      "excerpt": "A shot showing the buildup from just the building to the complete environment"
     },
     {
       "subreddit": "ArchiCAD",
@@ -563,63 +553,63 @@
     },
     {
       "subreddit": "Architects",
-      "title": "How many uk architect just pay the ARB fee and not join the RIBA ?",
-      "url": "https://www.reddit.com/r/Architects/comments/1xsnaiq/how_many_uk_architect_just_pay_the_arb_fee_and/",
+      "title": "Is it worth pursuing a second baccalaureate in architecture?",
+      "url": "https://www.reddit.com/r/Architects/comments/1xrl1po/is_it_worth_pursuing_a_second_baccalaureate_in/",
       "upvotes": 5,
-      "comments": 33,
-      "created": "2026-11-10",
+      "comments": 4,
+      "created": "2026-11-09",
       "ai_related": false,
-      "excerpt": "Am considering just paying the ARB fee but not the RIbA fee this year? Are there many people doing this ? I paid both last year feel the RIBA is a bit useless also considering the cost of living at the moment."
+      "excerpt": "I recently graduated from a non-board pre-med program and am currently taking a gap year to recover from a brutal final semester of academics, training, thesis, and org work. Because everyone expected me to go to med school, I took the NMAT. I was also diligently reviewing for my certification exam,"
     },
     {
       "subreddit": "Architects",
-      "title": "Best laptop/ tech for a freelance architect",
-      "url": "https://www.reddit.com/r/Architects/comments/1xrps62/best_laptop_tech_for_a_freelance_architect/",
+      "title": "中国普通装修工人去美国加拿大澳大利亚有机会生存下来吗",
+      "url": "https://www.reddit.com/r/Architects/comments/1xq8j9d/中国普通装修工人去美国加拿大澳大利亚有机会生存下来吗/",
       "upvotes": 5,
-      "comments": 11,
-      "created": "2026-11-09",
+      "comments": 6,
+      "created": "2026-11-07",
       "ai_related": false,
-      "excerpt": "Hello All- I am London based Associate level architect and have left my current job for various reasons. A lot of the parents in our kids friendship group are currently about to embark on various levels of house renovations and have asked me to do some freelance work for them. What is the best (affo"
+      "excerpt": "我是在中国做装修施工的工人，主要会安装玻璃楼梯扶手，装饰不锈钢。通过简单学习也会安装门窗，淋浴房。会简单使用CAD。希望出国去些发达国家谋生，如美国加拿大澳大利亚。希望得到一些建议能够很大概率的去往这些国家并且找到工作。"
+    },
+    {
+      "subreddit": "archviz",
+      "title": "Highrise at Night Build-up",
+      "url": "https://www.reddit.com/r/archviz/comments/1xv3t04/highrise_at_night_buildup/",
+      "upvotes": 5,
+      "comments": 5,
+      "created": "2026-11-13",
+      "ai_related": false,
+      "excerpt": "A shot showing the buildup from just the building to the complete environment"
     },
     {
       "subreddit": "Architects",
       "title": "changing from architecture to business",
       "url": "https://www.reddit.com/r/Architects/comments/1xtugcy/changing_from_architecture_to_business/",
-      "upvotes": 5,
+      "upvotes": 4,
       "comments": 9,
       "created": "2026-11-11",
       "ai_related": false,
       "excerpt": "im studying architecture now, first year, first semester. im a really creative person, i draw and i always had this creativity to art and decoration and used to build a lot of houses on a game and loved it, so i chose to do architecture, but im a really fun person and i always want to be outside, wi"
     },
     {
-      "subreddit": "archviz",
-      "title": "What AI rendering still gets wrong (notes from watching a few hundred real requests)",
-      "url": "https://www.reddit.com/r/archviz/comments/1xri3xc/what_ai_rendering_still_gets_wrong_notes_from/",
-      "upvotes": 5,
-      "comments": 6,
-      "created": "2026-11-09",
-      "ai_related": true,
-      "excerpt": "I've spent the last few months working on the AI side of architectural visualization. That meant reading through a lot of real requests people sent and comparing what they asked for with what came back. I'm not here to argue that AI replaces archviz. Mostly I came away with a clearer picture of wher"
-    },
-    {
-      "subreddit": "Architects",
-      "title": "Newly Licensed Architect planning to launch FB page",
-      "url": "https://www.reddit.com/r/Architects/comments/1xsdspy/newly_licensed_architect_planning_to_launch_fb/",
-      "upvotes": 4,
-      "comments": 0,
-      "created": "2026-11-10",
-      "ai_related": false,
-      "excerpt": "Hi everyone, I’m a newly licensed Architect in the philippines planning to set up a facebook page for my studio. Since I’m jus starting out as a solo freelancer, I don’t expect to get clients or projects right away, but I have a few questions about legalities and registration that are confusing me: "
-    },
-    {
       "subreddit": "Architects",
       "title": "First Mistakes",
       "url": "https://www.reddit.com/r/Architects/comments/1xvguh6/first_mistakes/",
-      "upvotes": 3,
+      "upvotes": 4,
       "comments": 8,
       "created": "2026-11-13",
       "ai_related": false,
       "excerpt": "Share your first few mistakes you did while running your own firm independently which you think could have been avoided."
+    },
+    {
+      "subreddit": "archviz",
+      "title": "What AI rendering still gets wrong (notes from watching a few hundred real requests)",
+      "url": "https://www.reddit.com/r/archviz/comments/1xri3xc/what_ai_rendering_still_gets_wrong_notes_from/",
+      "upvotes": 4,
+      "comments": 6,
+      "created": "2026-11-09",
+      "ai_related": true,
+      "excerpt": "I've spent the last few months working on the AI side of architectural visualization. That meant reading through a lot of real requests people sent and comparing what they asked for with what came back. I'm not here to argue that AI replaces archviz. Mostly I came away with a clearer picture of wher"
     },
     {
       "subreddit": "Architects",
@@ -650,6 +640,16 @@
       "created": "2026-11-10",
       "ai_related": false,
       "excerpt": "Architectural/Interior Portfolio 😂🥹 Has this ever happened to you? so I have this client who asked me for a pdf format for an interior project I had a few days to prepare before the deadline which was yesterday but I was finishing up on a bedroom Interior so I was like I'll do it start it the day be"
+    },
+    {
+      "subreddit": "Architects",
+      "title": "Newly Licensed Architect planning to launch FB page",
+      "url": "https://www.reddit.com/r/Architects/comments/1xsdspy/newly_licensed_architect_planning_to_launch_fb/",
+      "upvotes": 3,
+      "comments": 0,
+      "created": "2026-11-10",
+      "ai_related": false,
+      "excerpt": "Hi everyone, I’m a newly licensed Architect in the philippines planning to set up a facebook page for my studio. Since I’m jus starting out as a solo freelancer, I don’t expect to get clients or projects right away, but I have a few questions about legalities and registration that are confusing me: "
     },
     {
       "subreddit": "archviz",
@@ -792,6 +792,16 @@
       "excerpt": "I’m in my first year of university, studying landscape architecture. I’ve been on the fence about staying in LA or moving to architecture. First, i have connections with a civil engineering firm that hires architects that work on mostly residential buildings in the Bay Area, I’d love to work with th"
     },
     {
+      "subreddit": "Architects",
+      "title": "Need to share",
+      "url": "https://www.reddit.com/r/Architects/comments/1xt4opm/need_to_share/",
+      "upvotes": 2,
+      "comments": 2,
+      "created": "2026-11-11",
+      "ai_related": false,
+      "excerpt": "What ever you do, don’t do work for Wolf Gym. They will rip you off. They push the celebrity hook and keep promising. DONT WORK FOR THEM… seriously."
+    },
+    {
       "subreddit": "archviz",
       "title": "A Sensory-Friendly Space for Children on the Autism Spectrum | Architecture Project",
       "url": "https://www.reddit.com/r/archviz/comments/1xsnv78/a_sensoryfriendly_space_for_children_on_the/",
@@ -880,16 +890,6 @@
       "created": "2026-11-11",
       "ai_related": false,
       "excerpt": "السلام عليكم، I’m an architecture student at a well-established university in the UAE, graduating next month, and I’m hoping to start my career here. Are there any architects, designers, interior designers, or people working in related fields who might be able to refer me, connect me with someone, o"
-    },
-    {
-      "subreddit": "Architects",
-      "title": "Need to share",
-      "url": "https://www.reddit.com/r/Architects/comments/1xt4opm/need_to_share/",
-      "upvotes": 1,
-      "comments": 2,
-      "created": "2026-11-11",
-      "ai_related": false,
-      "excerpt": "What ever you do, don’t do work for Wolf Gym. They will rip you off. They push the celebrity hook and keep promising. DONT WORK FOR THEM… seriously."
     },
     {
       "subreddit": "Architects",

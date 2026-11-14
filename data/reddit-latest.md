@@ -1,12 +1,12 @@
 # Reddit digest: AI in architecture
-Generated 2026-11-14 08:42 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
+Generated 2026-11-14 08:44 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
 
 ## AI-related posts (by upvotes)
-- **Local Magnific AI Enhancer: Open Source Testing** (r/archviz, 2026-11-13) - 71 upvotes, 35 comments
+- **Local Magnific AI Enhancer: Open Source Testing** (r/archviz, 2026-11-13) - 66 upvotes, 35 comments
   https://www.reddit.com/r/archviz/comments/1xuuama/local_magnific_ai_enhancer_open_source_testing/
   Hey all, I've set Claude on the tools for just over 10 days now creating a magnific ai replacement and I think it's come pretty close. Runs locally, relatively fast and uses an open source backend. Would anyone be keen to test this? :)
 
-- **Archviz Interior Living, Dining, Bedroom** (r/archviz, 2026-11-11) - 44 upvotes, 7 comments
+- **Archviz Interior Living, Dining, Bedroom** (r/archviz, 2026-11-11) - 46 upvotes, 7 comments
   https://www.reddit.com/r/archviz/comments/1xtboel/archviz_interior_living_dining_bedroom/
   Blender Cycles Soon will have to figure out implementing heavy AI to my workflow. Visualization users keeps going downhill
 
@@ -18,19 +18,19 @@ Generated 2026-11-14 08:42 UTC. Top posts of the week from r/Architects, r/archv
   https://www.reddit.com/r/Architects/comments/1xs5z8g/my_small_studios_software_subscription_costs_are/
   Save Money on software subscriptions. Hey, I just finished my year-end report bookkeeping planning, and I noticed I spend almost 10k per year on software subscriptions per team! We are a studio of 4 people. That is a lot of money. I did a quick review to see where we can save money, and I'm sharing 
 
-- **Industry Future** (r/Architects, 2026-11-09) - 36 upvotes, 30 comments
+- **Industry Future** (r/Architects, 2026-11-09) - 34 upvotes, 30 comments
   https://www.reddit.com/r/Architects/comments/1xrdqwk/industry_future/
   What are your feelings about the future of the architecture industry? Where I'm from we've been going through an incredibly slow period for the industry. Mostly due to national economic conditions, but it's starting to feel like other factors are becoming increasingly disruptive too. * AI (already d
 
-- **I finally solved the 15-year-old Zone Stamp mirror / drift bug using Python &amp; Tapir** (r/ArchiCAD, 2026-11-11) - 32 upvotes, 25 comments
+- **I finally solved the 15-year-old Zone Stamp mirror / drift bug using Python &amp; Tapir** (r/ArchiCAD, 2026-11-11) - 30 upvotes, 25 comments
   https://www.reddit.com/r/ArchiCAD/comments/1xteubk/i_finally_solved_the_15yearold_zone_stamp_mirror/
   Archicad users, we have all suffered through this Nightmare! 🤦‍♂️📐 You are up against a tight deadline. You spend 45 minutes nudging zone stamps away from furniture, door swings, and dimensions so your drawings look immaculate. Then the client asks: "Can we see this unit mirrored?" You press Ctrl + 
 
-- **D5 Render + SketchUp** (r/archviz, 2026-11-13) - 21 upvotes, 6 comments
+- **D5 Render + SketchUp** (r/archviz, 2026-11-13) - 20 upvotes, 6 comments
   https://www.reddit.com/r/archviz/comments/1xvlvma/d5_render_sketchup/
   Selected shots from the most recent interior viz project done for an interior design studio. [Behance of this project](
 
-- **Render for my design studio's Project** (r/archviz, 2026-11-07) - 9 upvotes, 2 comments
+- **Render for my design studio's Project** (r/archviz, 2026-11-07) - 10 upvotes, 2 comments
   https://www.reddit.com/r/archviz/comments/1xq4gfy/render_for_my_design_studios_project/
   Hello , I'm new to Archviz , that's my 3rd Revit/D5/Photoshop render ever. I would love the feedback , Thank you 😄
 
@@ -38,7 +38,7 @@ Generated 2026-11-14 08:42 UTC. Top posts of the week from r/Architects, r/archv
   https://www.reddit.com/r/Architects/comments/1xro8w7/architects_moving_into_tech_aec_in_londonuk/
   Are there architects transitioning into Tech / AEC / BIM sectors ? Can you advise how you went about making the transition and if you’re happy with your choices? I’m 10+ years into my career, and I’ve been dabbling in introducing better workload and Ai tools into my practice but the room for experim
 
-- **What AI rendering still gets wrong (notes from watching a few hundred real requests)** (r/archviz, 2026-11-09) - 5 upvotes, 6 comments
+- **What AI rendering still gets wrong (notes from watching a few hundred real requests)** (r/archviz, 2026-11-09) - 4 upvotes, 6 comments
   https://www.reddit.com/r/archviz/comments/1xri3xc/what_ai_rendering_still_gets_wrong_notes_from/
   I've spent the last few months working on the AI side of architectural visualization. That meant reading through a lot of real requests people sent and comparing what they asked for with what came back. I'm not here to argue that AI replaces archviz. Mostly I came away with a clearer picture of wher
 
@@ -84,21 +84,21 @@ Generated 2026-11-14 08:42 UTC. Top posts of the week from r/Architects, r/archv
 
 
 ## Other top posts (context)
-- **Having grown up playing GTA and now being a residential architect, having one of my designs in the new game would be the ultimate life goal** (r/Architects, 2026-11-10) - 158 upvotes, 17 comments
+- **Having grown up playing GTA and now being a residential architect, having one of my designs in the new game would be the ultimate life goal** (r/Architects, 2026-11-10) - 157 upvotes, 17 comments
   https://www.reddit.com/r/Architects/comments/1xst3hj/having_grown_up_playing_gta_and_now_being_a/
 
-- **A Vessel On The Broads - William Guthrie Architect** (r/archviz, 2026-11-08) - 149 upvotes, 13 comments
+- **A Vessel On The Broads - William Guthrie Architect** (r/archviz, 2026-11-08) - 151 upvotes, 13 comments
   https://www.reddit.com/r/archviz/comments/1xqsi4i/a_vessel_on_the_broads_william_guthrie_architect/
 
-- **STILL HERE** (r/archviz, 2026-11-09) - 140 upvotes, 7 comments
+- **STILL HERE** (r/archviz, 2026-11-09) - 142 upvotes, 7 comments
   https://www.reddit.com/r/archviz/comments/1xs4iei/still_here/
   A residential exterior I made in Blender and rendered in Cycles. I used blue dusk across the street and a little warm light inside to draw the eye to the house. The second image shows the scene as a clay render.
+
+- **Resort at Bali** (r/archviz, 2026-11-12) - 131 upvotes, 27 comments
+  https://www.reddit.com/r/archviz/comments/1xu88o0/resort_at_bali/
+  Our images for Resort at Bali.
 
 - **The curse of being an architect** (r/Architects, 2026-11-10) - 129 upvotes, 46 comments
   https://www.reddit.com/r/Architects/comments/1xsbua1/the_curse_of_being_an_architect/
   Being an architect is a curse of knowing good design and craftsmanship but not ever being able to afford it for myself.
-
-- **Resort at Bali** (r/archviz, 2026-11-12) - 129 upvotes, 27 comments
-  https://www.reddit.com/r/archviz/comments/1xu88o0/resort_at_bali/
-  Our images for Resort at Bali.
 
