@@ -10,6 +10,7 @@ Standard library only. Free quota is 10,000 units/day; one run uses well under 1
 """
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.parse
@@ -18,6 +19,8 @@ from datetime import datetime, timedelta, timezone
 
 API = "https://www.googleapis.com/youtube/v3"
 DAYS_BACK = 8  # a bit over a week so a Sunday run never misses a day
+MIN_VIEWS = 300  # discovery results below this are dropped as noise
+MAX_PER_SEARCH = 5
 
 CHANNELS = [
     ("Show It Better", "UC_eRv_Rzr671BaKFtpYSi4A"),
@@ -34,12 +37,12 @@ CHANNELS = [
 ]
 
 SEARCH_QUERIES = [
-    "AI architecture workflow",
+    "AI for architects",
+    "Claude for architects",
     "Veras Enscape AI render",
-    "Midjourney architecture",
-    "ChatGPT for architects",
     "Archicad AI",
     "Revit AI",
+    "SketchUp Rhino AI",
 ]
 
 
@@ -89,7 +92,7 @@ def search_videos(query, since, key):
             "type": "video",
             "order": "viewCount",
             "publishedAfter": since.strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "maxResults": 8,
+            "maxResults": 15,
             "relevanceLanguage": "en",
         },
         key,
@@ -123,7 +126,8 @@ def video_details(ids, key):
                 "likes": int(st.get("likeCount", 0)),
                 "comments": int(st.get("commentCount", 0)),
                 "duration": v.get("contentDetails", {}).get("duration", ""),
-                "description": (sn.get("description", "") or "")[:300].replace("\n", " "),
+                "language": (sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "").lower(),
+                "description": re.sub(r"\s+", " ", re.sub(r"https?://\S+", "", sn.get("description", "") or "")).strip()[:200],
             }
     return out
 
@@ -162,7 +166,12 @@ def main():
     seen = {v["id"] for vids in followed.values() for v in vids}
     discovery = {}
     for q, ids in search_ids.items():
-        vids = [details[i] for i in ids if i in details and i not in seen]
+        vids = [
+            details[i] for i in ids
+            if i in details and i not in seen
+            and details[i]["views"] >= MIN_VIEWS
+            and details[i]["language"][:2] in ("", "en", "nl")
+        ][:MAX_PER_SEARCH]
         for v in vids:
             seen.add(v["id"])
         discovery[q] = vids
