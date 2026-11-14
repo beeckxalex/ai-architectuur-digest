@@ -63,8 +63,7 @@ def main():
     if not token:
         sys.exit("APIFY_TOKEN is not set")
     items = run_actor(token)
-    for it in items[:5]:
-        print("DEBUG", it.get("dataType"), it.get("communityName"), it.get("parsedCommunityName"), it.get("createdAt"), (it.get("title") or "")[:60])
+    
 
     wanted = {s.lower() for s in SUBREDDITS}
     posts = []
