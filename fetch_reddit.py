@@ -24,7 +24,7 @@ AI_WORDS = re.compile(
 
 def build_payload():
     payload = {}
-    payload["startUrls"] = [{"url": f"https://www.reddit.com/r/{s}/top/?t=week"} for s in SUBREDDITS]
+    payload["startUrls"] = [{"url": f"https://www.reddit.com/r/{s}/"} for s in SUBREDDITS]
     payload["maxItems"] = MAX_ITEMS * len(SUBREDDITS)
     payload["searches"] = []
     payload["searchPosts"] = False
