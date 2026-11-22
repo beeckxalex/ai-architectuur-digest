@@ -1,127 +1,123 @@
 # Reddit digest: AI in architecture
-Generated 2026-11-15 22:47 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
+Generated 2026-11-22 23:36 UTC. Top posts of the week from r/Architects, r/archviz, r/Revit, r/ArchiCAD.
 
 ## AI-related posts (by upvotes)
-- **Local Magnific AI Enhancer: Open Source Testing** (r/archviz, 2026-11-13) - 76 upvotes, 38 comments
-  https://www.reddit.com/r/archviz/comments/1xuuama/local_magnific_ai_enhancer_open_source_testing/
-  Hey all, I've set Claude on the tools for just over 10 days now creating a magnific ai replacement and I think it's come pretty close. Runs locally, relatively fast and uses an open source backend. Would anyone be keen to test this? :)
+- **AI has ruined my practice** (r/Architects, 2026-11-16) - 211 upvotes, 72 comments
+  https://www.reddit.com/r/Architects/comments/1xxmlkv/ai_has_ruined_my_practice/
+  I’ve been running a small architecture and interior design firm in India for 2 years, only Deisgn - no turnkey/execution and the last 6 months have been brutal. Earlier, clients came with just an idea. We’d take them through the design process, build trust, and gradually onboard them through a stage
 
-- **Archviz Interior Living, Dining, Bedroom** (r/archviz, 2026-11-11) - 52 upvotes, 7 comments
-  https://www.reddit.com/r/archviz/comments/1xtboel/archviz_interior_living_dining_bedroom/
-  Blender Cycles Soon will have to figure out implementing heavy AI to my workflow. Visualization users keeps going downhill
+- **Hiring problem - I'm sick of seeing AI slop in student work** (r/Architects, 2026-11-21) - 184 upvotes, 121 comments
+  https://www.reddit.com/r/Architects/comments/1y20cah/hiring_problem_im_sick_of_seeing_ai_slop_in/
+  Our practice is hiring for a junior designer, and I see so many people submitting AI slop in the portfolio. How do other architects deal with this? I am sick of this slop from young people who think architecture is just image making and one shotting with AI
 
-- **D5 Render + SketchUp** (r/archviz, 2026-11-13) - 43 upvotes, 11 comments
-  https://www.reddit.com/r/archviz/comments/1xvlvma/d5_render_sketchup/
-  Selected shots from the most recent interior viz project done for an interior design studio. [Behance of this project](
+- **Axonometry of a Parisian building** (r/archviz, 2026-11-17) - 89 upvotes, 1 comments
+  https://www.reddit.com/r/archviz/comments/1xyt5sy/axonometry_of_a_parisian_building/
+  **As an architect** I **work in urban and architectural representation** This building occupies the smallest urban block in Paris, at 125 rue Vieille du Temple, where three streets meet. It is a typical remnant of the Haussmannian restructuring of the capital: a sliver of land shaped by the new stre
 
-- **My small studio's software subscription costs are blowing my mind! I did an existential audit to see how I can save money. Give me more ideas** (r/Architects, 2026-11-09) - 41 upvotes, 72 comments
-  https://www.reddit.com/r/Architects/comments/1xs5z8g/my_small_studios_software_subscription_costs_are/
-  Save Money on software subscriptions. Hey, I just finished my year-end report bookkeeping planning, and I noticed I spend almost 10k per year on software subscriptions per team! We are a studio of 4 people. That is a lot of money. I did a quick review to see where we can save money, and I'm sharing 
+- **Clients feeding your plans into AI** (r/Architects, 2026-11-19) - 65 upvotes, 101 comments
+  https://www.reddit.com/r/Architects/comments/1y0cppn/clients_feeding_your_plans_into_ai/
+  This week I came across another of those “Look what Claude made me from a floorplan” posts. I feel like I see them like twice a week minimum. As a client myself, feeding plans into AI feels kinda disrespectful to the architects work. But on the other hand, having something better to look at while I 
 
-- **Chaos using security scare tactics to push V-ray perpetual license holders into expensive subscriptions, driving loyal users away towards alternatives and AI.** (r/archviz, 2026-11-10) - 40 upvotes, 20 comments
-  https://www.reddit.com/r/archviz/comments/1xsmimn/chaos_using_security_scare_tactics_to_push_vray/
-  I just received the 'reminder' email from Chaos about V-Ray, and honestly, my jaw is on the floor. They send us an email that grabs you by the throat, claiming that our older perpetual licenses (Next, 5, 6) are left without security fixes because third-party libraries supposedly can't be updated, an
+- **Vibe coded GDL objects** (r/ArchiCAD, 2026-11-21) - 57 upvotes, 20 comments
+  https://www.reddit.com/r/ArchiCAD/comments/1y1u5bb/vibe_coded_gdl_objects/
+  Probably way late to the party, but maybe someone will find it useful. I just prompted Gemini to make me a GDL object for a sectional extendable pergola shading system. Absolute piece of cake. Took a small chunk of time, maybe 30mins or so, to flesh out my prompt and reason out all the details, and 
 
-- **Industry Future** (r/Architects, 2026-11-09) - 35 upvotes, 30 comments
-  https://www.reddit.com/r/Architects/comments/1xrdqwk/industry_future/
-  What are your feelings about the future of the architecture industry? Where I'm from we've been going through an incredibly slow period for the industry. Mostly due to national economic conditions, but it's starting to feel like other factors are becoming increasingly disruptive too. * AI (already d
+- **Ai rendering doom spiral** (r/Architects, 2026-11-22) - 48 upvotes, 39 comments
+  https://www.reddit.com/r/Architects/comments/1y2vefl/ai_rendering_doom_spiral/
+  Our firm recently adopted AI rendering workflows after doing a competition with a major firm who had tight deadlines and was producing very high quality visuals. They shared with us that they were utilizing xfigura and the results were basically flawless. I started developing the process for AI rend
 
-- **I finally solved the 15-year-old Zone Stamp mirror / drift bug using Python &amp; Tapir** (r/ArchiCAD, 2026-11-11) - 33 upvotes, 26 comments
-  https://www.reddit.com/r/ArchiCAD/comments/1xteubk/i_finally_solved_the_15yearold_zone_stamp_mirror/
-  Archicad users, we have all suffered through this Nightmare! 🤦‍♂️📐 You are up against a tight deadline. You spend 45 minutes nudging zone stamps away from furniture, door swings, and dimensions so your drawings look immaculate. Then the client asks: "Can we see this unit mirrored?" You press Ctrl + 
+- **Any Firms Refusing to Use AI?** (r/Architects, 2026-11-22) - 47 upvotes, 58 comments
+  https://www.reddit.com/r/Architects/comments/1y2dxhw/any_firms_refusing_to_use_ai/
+  Any architecture firms out there refusing to use AI for renders or other work? It’s been used in my firm for a while now, so I know it was only a matter of time before I would be asked to use it. I recently was required to use AI on a render and I am feeling pretty disheartened about it. I started t
 
-- **Honestly, is AI overhyped for CAD/BIM?** (r/Architects, 2026-11-15) - 23 upvotes, 37 comments
-  https://www.reddit.com/r/Architects/comments/1xwkinx/honestly_is_ai_overhyped_for_cadbim/
-  I have tried using MCP connectors in Revit and AutoCAD. They are useful for I guess certain tasks but it increases my workload as I need to keep on correcting its output. What’s worked the best for your workflow and where does it still lag the most?
+- **New arts centre** (r/archviz, 2026-11-20) - 28 upvotes, 9 comments
+  https://www.reddit.com/r/archviz/comments/1y13lrz/new_arts_centre/
+  Have not been here in a while dont know the rules of AI posting but this was done completely in AI took a fair amount of prompts though
 
-- **Should I do a career shift?** (r/Architects, 2026-11-14) - 10 upvotes, 9 comments
-  https://www.reddit.com/r/Architects/comments/1xwfdz9/should_i_do_a_career_shift/
-  TL;TR: after getting my masters in architecture, I don't know whether to try to get to Med school, do a PhD, or attempt to get into construction management. Were you ever in a similar dilemma, if so then how did you decide on what path to persue? Hello, hope everyone is doing great! I'm 24, I gradua
+- **Minimalist chair** (r/archviz, 2026-11-18) - 26 upvotes, 0 comments
+  https://www.reddit.com/r/archviz/comments/1xzovcc/minimalist_chair/
+  Hello guys! :) I wanted to share some of my recent work with you. The first two images are entirely my own work, with no AI involved. The third image includes an AI-generated addition (only the woman). Hope you like it! :)
 
-- **Are my future plans doomed?** (r/archviz, 2026-11-14) - 10 upvotes, 22 comments
-  https://www.reddit.com/r/archviz/comments/1xvwhws/are_my_future_plans_doomed/
-  I am 14 and i love 3d modelling. My dream has been to do Archviz, but researching the market, asking around and so on, has shown me that ai has taken most of the entry level jobs. The only jobs that arent currently at risk are higher end. I am only 14. By the time im going to be able to even think a
+- **Modern Italian Villa — Exterior Visualization** (r/archviz, 2026-11-19) - 23 upvotes, 0 comments
+  https://www.reddit.com/r/archviz/comments/1y0djds/modern_italian_villa_exterior_visualization/
+  Ho iniziato questo progetto nel 2022 su SketchUp, quando andavo ancora a scuola, e poi l'avevo lasciato lì, abbandonato. Oggi ho deciso di riprenderlo in mano e portarlo finalmente a termine con SketchUp e V-Ray, curando la post-produzione su Lightroom. In un momento in cui tutti corrono dietro all'
 
-- **Architects moving into tech / AEC in London/UK** (r/Architects, 2026-11-09) - 8 upvotes, 11 comments
-  https://www.reddit.com/r/Architects/comments/1xro8w7/architects_moving_into_tech_aec_in_londonuk/
-  Are there architects transitioning into Tech / AEC / BIM sectors ? Can you advise how you went about making the transition and if you’re happy with your choices? I’m 10+ years into my career, and I’ve been dabbling in introducing better workload and Ai tools into my practice but the room for experim
+- **Our "trained eye" just evolved for AI renders** (r/archviz, 2026-11-19) - 16 upvotes, 8 comments
+  https://www.reddit.com/r/archviz/comments/1y0gbuj/our_trained_eye_just_evolved_for_ai_renders/
+  Colleagues, have you noticed that, with our trained eyes, we can all tell the difference between a 3D render and a photograph? And now, with claims that AI can produce photorealistic renders, we’re reaching a point where we can distinguish between "honest" 3D, an actual photograph, and an AI-generat
 
-- **As an interior architect i need your advices for ai🙏🏻** (r/archviz, 2026-11-14) - 4 upvotes, 6 comments
-  https://www.reddit.com/r/archviz/comments/1xw2obm/as_an_interior_architect_i_need_your_advices_for/
-  Hello to the entire archviz community, ​I am an interior architect with 7 years of experience, a major part of which has been dedicated to design and rendering. However, for the past two years, I have continued my career focusing on sales and marketing. Now, I am planning my return to the field, but
+- **Testing a local AI workflow (up to 8K) to turn rough clay renders into final architectural visualizations – would love your feedback on the geometry preservation** (r/archviz, 2026-11-17) - 12 upvotes, 50 comments
+  https://www.reddit.com/r/archviz/comments/1xysq3k/testing_a_local_ai_workflow_up_to_8k_to_turn/
+  Hi everyone, I’ve been experimenting with a local AI workflow for architectural visualization specifically designed to enhance vegetation, materials, and fine details (up to 8K) in the final stages of a project, or turn rough clay renders into finished visuals directly on a local GPU without uploadi
 
-- **What AI rendering still gets wrong (notes from watching a few hundred real requests)** (r/archviz, 2026-11-09) - 4 upvotes, 6 comments
-  https://www.reddit.com/r/archviz/comments/1xri3xc/what_ai_rendering_still_gets_wrong_notes_from/
-  I've spent the last few months working on the AI side of architectural visualization. That meant reading through a lot of real requests people sent and comparing what they asked for with what came back. I'm not here to argue that AI replaces archviz. Mostly I came away with a clearer picture of wher
+- **Feedback please...** (r/archviz, 2026-11-19) - 11 upvotes, 2 comments
+  https://www.reddit.com/r/archviz/comments/1y0ghxj/feedback_please/
+  I’m looking to improve my visualization skills, so I’d love to hear your thoughts on the lighting, materials, composition, realism, or anything else that could be improved. Feel free to be honest and point out what isn't working. I modelled it in SketchUp and rendered it in D5 Render. Thank you!
 
-- **Anyone here switched from Twinmotion to D5? Curious about your experience** (r/archviz, 2026-11-15) - 3 upvotes, 3 comments
-  https://www.reddit.com/r/archviz/comments/1xwl4ok/anyone_here_switched_from_twinmotion_to_d5/
-  I've been using Twinmotion for architectural visualization for a while, but recently I've started looking at other options. It's not really that Twinmotion has any major problems for me. It's more that on projects with a lot of revisions, I find myself doing a lot of checking as the design keeps cha
+- **How to amp up the realism on D5** (r/archviz, 2026-11-22) - 10 upvotes, 1 comments
+  https://www.reddit.com/r/archviz/comments/1y2qeso/how_to_amp_up_the_realism_on_d5/
+  been using enscape for a long time. D5 is a new and great experience for me. can anyone give pointers on what to do to make the outputs more realistic?
 
-- **Is a €3,000 3ds Max + Corona course still worth it in the AI era?** (r/archviz, 2026-11-10) - 3 upvotes, 16 comments
-  https://www.reddit.com/r/archviz/comments/1xsmnoj/is_a_3000_3ds_max_corona_course_still_worth_it_in/
-  Hi everyone, I've read through a lot of posts on this subreddit about AI and the future of archviz and I've also talked to people who work in the field, so I won't ask the generic "will AI replace us" question. I'd like input specific to my situation. I'm 26 and have a bachelor's degree in architect
+- **Show me your site verification gear and habits!** (r/Architects, 2026-11-17) - 6 upvotes, 15 comments
+  https://www.reddit.com/r/Architects/comments/1xypbyu/show_me_your_site_verification_gear_and_habits/
+  I am trying to organize my typical site verification kit to be more efficient while walking around, measuring, taking notes, and marking up drawings of existing conditions. I am often folding my 11x7 drawings in half and fumbling with a clip board and putting it down every time I need to use my tape
 
-- **Best program for HQ 360 Room tour visualizations and pics?** (r/Architects, 2026-11-15) - 2 upvotes, 2 comments
-  https://www.reddit.com/r/Architects/comments/1xx6xl3/best_program_for_hq_360_room_tour_visualizations/
-  Hi everyone I would like to ask you for some advice. I am an architect in Switzerland and have been also doing lots of Visualizations for the firm. I am very skilled in Enscape, photoshop and have some Experience with Cinema4D but I haven’t worked in a while with it. I am very interested in doing th
+- **Software question** (r/Architects, 2026-11-16) - 3 upvotes, 9 comments
+  https://www.reddit.com/r/Architects/comments/1xxvfc9/software_question/
+  I have had a post removed which, to be fair, did look a bit like those posts where someone asks a question as a setup for someone recommending a particular product in the replies. Would it be OK to generally ask what software people find saves time? I am returning to architecture practice as a sole 
 
-- **Calling UK construction professionals with BIM experience** (r/Architects, 2026-11-12) - 2 upvotes, 0 comments
-  https://www.reddit.com/r/Architects/comments/1xub3tl/calling_uk_construction_professionals_with_bim/
-  For my dissertation at Anglia Ruskin University, I'm researching whether AI in BIM is actually improving health and safety on UK projects: hazard detection, risk prediction, site monitoring, and where it falls short. If you work (or have worked) in UK construction and have used BIM or digital constr
+- **I drew Dutch listing plans in Floorplanner for years, so I built my own tool** (r/Architects, 2026-11-16) - 2 upvotes, 2 comments
+  https://www.reddit.com/r/Architects/comments/1xxgdq3/i_drew_dutch_listing_plans_in_floorplanner_for/
+  Almost every home for sale in the Netherlands has a floor plan on the listing, and Floorplanner is the standard here: agents ask for the FML file, because that is what makes the plan interactive on the listing site. I drew in it for years, and it is still good at furnishing and renders. What wore me
 
-- **Enscape - vray workflow for 2026? Still good?** (r/archviz, 2026-11-15) - 2 upvotes, 1 comments
-  https://www.reddit.com/r/archviz/comments/1xwll58/enscape_vray_workflow_for_2026_still_good/
-  &amp;#x200B; So, how I work is I do initial quick visualization in enscape then after all's good I switch to vray. But yeah vray renders do take time. But recently all my friends have switched to d5 and what I feel is it's somewhat better than enscape And the quality of the renders are quite good fo
+- **Local Office AI?** (r/Architects, 2026-11-16) - 1 upvotes, 23 comments
+  https://www.reddit.com/r/Architects/comments/1xxr1y1/local_office_ai/
+  Hey everyone! Whether we love or hate AI in the workplace, my office is considering using different AI models for our office and I would love to hear if anyone has recommendations. Our main goals are security, file/data organization, office standards, and hopefully revit integrations in the future t
 
-- **Any Kitchen Prompt Generator: (Free &amp; Open-Source Add-on + Offline Web App) Build AI rendering prompts from real material presets** (r/archviz, 2026-11-15) - 1 upvotes, 0 comments
-  https://www.reddit.com/r/archviz/comments/1xwszi8/any_kitchen_prompt_generator_free_opensource/
+- **Thoughts about incorporating AI into digital workflows?** (r/Architects, 2026-11-20) - 0 upvotes, 5 comments
+  https://www.reddit.com/r/Architects/comments/1y0r0fe/thoughts_about_incorporating_ai_into_digital/
+  And by that i don't mean to let chatgpt design your client's living room, automatically convert your drawings to a Revit model or to just do 10-secs flawed renders with a prompt. It's about the repetitive mundane work, that is time intensive and gives out almost invisible output. The grunt work, bas
 
-- **Bim architect** (r/Architects, 2026-11-14) - 0 upvotes, 21 comments
-  https://www.reddit.com/r/Architects/comments/1xvyzca/bim_architect/
-  Hi, Iam an architect with 2.8 yrs of experience recently I was planning to move towards bim field( bim architect) .i happen to seen a lot of courses from that I kind of interested in builtambit course. If someone from here did the same course can I know the experience about it. Is that worth for the
+- **UpCodes - Code Review** (r/Architects, 2026-11-19) - 0 upvotes, 16 comments
+  https://www.reddit.com/r/Architects/comments/1y0j0gu/upcodes_code_review/
+  We spoke with UpCodes today about their AI Plan Review. They quoted us $10,000 for 2,000 tokens and 2 licenses. Without the licenses, the tokens cost $8,600, which works out to roughly $6.60 per drawing sheet for an architectural and accessibility code review. Has anyone been able to negotiate a low
 
-- **Building Code Consultant Tools — Canada based** (r/Architects, 2026-11-12) - 0 upvotes, 15 comments
-  https://www.reddit.com/r/Architects/comments/1xujddb/building_code_consultant_tools_canada_based/
-  Disclosure: I work at Huntertech, we built this to help more architecture firms (mainly in Canada). 10 questions a week free, no card: [Ask a Canadian Building Code Question | Huntertech]( Ask it something like "minimum guard height on a residential deck" and it gives you the answer plus the clause 
+- **AI in architecture design** (r/Architects, 2026-11-17) - 0 upvotes, 1 comments
+  https://www.reddit.com/r/Architects/comments/1xyb1lg/ai_in_architecture_design/
+  Hey all, anyone who is interested for a collab / understanding AI for architecture design practise Let’s share and learn on topics apart from rendering !! Haha. There is more to explore and learn. Hit me up if it’s something you wanna dig more
 
-- **Looking for Work] Architecture Student Seeking Remote Freelance Projects or Remote Internship Opportunities** (r/Architects, 2026-11-11) - 0 upvotes, 0 comments
-  https://www.reddit.com/r/Architects/comments/1xtjlgm/looking_for_work_architecture_student_seeking/
-  Hi everyone! I'm an architecture student currently pursuing my degree at MNIT Jaipur, and I'm looking for opportunities to work remotely with architecture firms, independent architects, studios, or professionals. I'm open to both freelance projects and remote internships, whether paid, part-time, or
+- **Just fired my architect! GPT-6 Astra + Blender + Quest 3 took over 💀** (r/Architects, 2026-11-17) - 0 upvotes, 40 comments
+  https://www.reddit.com/r/Architects/comments/1xyrfxp/just_fired_my_architect_gpt6_astra_blender_quest/
+  i'm a software engineer with zero background in architecture or 3d modelling. we're building a house in india, and i wanted to see what the finished version would actually look like, not just in renders, but standing inside the real construction site. after endless waits for 2d elevation renders fro
 
-- **AI models/renderings apps?** (r/Architects, 2026-11-13) - 0 upvotes, 2 comments
-  https://www.reddit.com/r/Architects/comments/1xvit3x/ai_modelsrenderings_apps/
-  What are folks using for quick modeling and renderings of spaces? We have more and more clients asking for quick/broad-stroke renderings. We have typically done the full model and renderings of spaces based on exact floor plans, finishes, lighting hvac. I've done some testing different ones, but the
+- **Is MeshMastery AI FIlmaking Course worth it?** (r/archviz, 2026-11-16) - 0 upvotes, 4 comments
+  https://www.reddit.com/r/archviz/comments/1xxvxh2/is_meshmastery_ai_filmaking_course_worth_it/
+  Hi everyone, for those who purchased or enrolled with meshmastery course.. is it good? what are you're thoughts on it? I'm now upskilling and investing on new knowledge specially on ai.
 
-- **AI has made it difficult for new firms ?** (r/Architects, 2026-11-13) - 0 upvotes, 10 comments
-  https://www.reddit.com/r/Architects/comments/1xv095p/ai_has_made_it_difficult_for_new_firms/
-  Hi architects, I’m a relatively new firm owner in India, and over the past year I’ve noticed a worrying shift in client behaviour. Clients are increasingly taking our 3D renders, modifying them using ChatGPT and then questioning what exactly they’re paying us for. This is leading to more fee negotia
+- **Turned a floor plan + AI renders into a video walkthrough of a 2-bedroom apartment (56.5 m²)** (r/archviz, 2026-11-17) - 0 upvotes, 7 comments
+  https://www.reddit.com/r/archviz/comments/1xyh2up/turned_a_floor_plan_ai_renders_into_a_video/
 
-- **[Free Add-on] Any Kitchen Prompt Generator: Export 1-click color masks from Blender and build AI rendering prompts from real material presets** (r/archviz, 2026-11-15) - 0 upvotes, 0 comments
-  https://www.reddit.com/r/archviz/comments/1xwu4br/free_addon_any_kitchen_prompt_generator_export/
-  A project I’ve been building to turn raw Blender models into photorealistic kitchens with real materials: Any Kitchen Prompt Generator ✨ Available now on GitHub. It pairs a custom Blender add-on with an offline-first web app to build accurate AI rendering prompts in seconds—no manual prompt writing 
-
-- **What AI tools can I use to create realistic architectural designs and house concepts like this.** (r/archviz, 2026-11-09) - 0 upvotes, 3 comments
-  https://www.reddit.com/r/archviz/comments/1xry9p8/what_ai_tools_can_i_use_to_create_realistic/
-  Hey everyone! My cousin owns a construction company, and he has asked me to handle its social media. I want to create and post AI-generated concept designs of residential houses, commercial buildings, interiors, etc. (like the images attached). I'm completely new to this, so could you guys suggest s
+- **Need AI Tools** (r/archviz, 2026-11-20) - 0 upvotes, 9 comments
+  https://www.reddit.com/r/archviz/comments/1y0wj94/need_ai_tools/
+  I am looking for some free AI tools to generate renders/visualization. My client wants to explore the AI part in archviz, he wants me to find any AI tools that could help in generating a whole scene based on the room's size/layout provided. Its like we tell the AI the room size, coordinates of windo
 
 
 ## Other top posts (context)
-- **Having grown up playing GTA and now being a residential architect, having one of my designs in the new game would be the ultimate life goal** (r/Architects, 2026-11-10) - 162 upvotes, 17 comments
-  https://www.reddit.com/r/Architects/comments/1xst3hj/having_grown_up_playing_gta_and_now_being_a/
+- **PSA: If you are playing GTA6, please turn off your Architect brain during “Repair Your Safehouse” quest** (r/Architects, 2026-11-19) - 484 upvotes, 25 comments
+  https://www.reddit.com/r/Architects/comments/1y0imj2/psa_if_you_are_playing_gta6_please_turn_off_your/
+  ***Not my photo*** Whatever you do, don’t look too closely at how puts up drywall or roof shingles. Don’t worry, that roof definitely not gonna leak.
 
-- **Resort at Bali** (r/archviz, 2026-11-12) - 147 upvotes, 27 comments
-  https://www.reddit.com/r/archviz/comments/1xu88o0/resort_at_bali/
-  Our images for Resort at Bali.
+- **Earth House in Aichi Prefecture by Ken Nishiguchi** (r/Architects, 2026-11-17) - 129 upvotes, 3 comments
+  https://www.reddit.com/r/Architects/comments/1xz0d3c/earth_house_in_aichi_prefecture_by_ken_nishiguchi/
 
-- **STILL HERE** (r/archviz, 2026-11-09) - 139 upvotes, 7 comments
-  https://www.reddit.com/r/archviz/comments/1xs4iei/still_here/
-  A residential exterior I made in Blender and rendered in Cycles. I used blue dusk across the street and a little warm light inside to draw the eye to the house. The second image shows the scene as a clay render.
+- **The house by the forest river** (r/archviz, 2026-11-18) - 110 upvotes, 13 comments
+  https://www.reddit.com/r/archviz/comments/1xzdgdf/the_house_by_the_forest_river/
+  3D visualization of a house for advertising a construction company. As a reference, the customer suggested use my work. ​​​​​​​The work was completed in 4 working days, from home modeling to final renderings. SOFT: Archicad | Blender 5.0.1 | Cycles render | Photoshop​​​​​​​
 
-- **The curse of being an architect** (r/Architects, 2026-11-10) - 134 upvotes, 50 comments
-  https://www.reddit.com/r/Architects/comments/1xsbua1/the_curse_of_being_an_architect/
-  Being an architect is a curse of knowing good design and craftsmanship but not ever being able to afford it for myself.
+- **Why are Architect wages so low?** (r/Architects, 2026-11-19) - 83 upvotes, 78 comments
+  https://www.reddit.com/r/Architects/comments/1y086rm/why_are_architect_wages_so_low/
+  I received an email from a recruiter today with a variety of candidates and I’m honestly surprised at how low the asking wages are. One that stood out is $130k (Aud) + Super for someone with 15 years experience who also has a Masters in PM and experience across a variety of projects. If these are th
 
-- **House in Chūō Ward(Tokyo) designed by Takeru Shoji Architects** (r/Architects, 2026-11-09) - 75 upvotes, 0 comments
-  https://www.reddit.com/r/Architects/comments/1xrypg2/house_in_chūō_wardtokyo_designed_by_takeru_shoji/
+- **Really makes you think** (r/Architects, 2026-11-20) - 81 upvotes, 24 comments
+  https://www.reddit.com/r/Architects/comments/1y1hs8q/really_makes_you_think/
 
